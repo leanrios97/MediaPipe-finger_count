@@ -12,7 +12,7 @@ This project detects and counts the number of fingers visible in a video feed us
 
 To run this project, you need to have the following libraries installed:
 
-- Python 3.x
+- Python 3.12.7
 - OpenCV
 - Mediapipe
 - Numpy
